@@ -1,4 +1,4 @@
-### About me
+## 🐵 About me
 My name is Tanino and I am a Data Scientist with passion for **automation** and **education**.
 
 I am an enthusiastic promoter of **data-driven decision-making** and I would like to give access to it to a broader public, though the use of simple **data analysis and visualization widgets***.
@@ -7,7 +7,7 @@ _This profile collect some of the projects I have build while training my progra
 
 > 📫 If you like to <u>collaborate or provide feedback</u>, feel free to contact me directly on [Linkedin](https://www.linkedin.com/in/tanino-albanese-820b90260/)
 
-
+## 🏓 Pinned Projects
 #### Project: Financial freedom 📈
 As I attempted to reach my own financial freedom through , I have seen myself and other around me making many mistakes while driven my their emotions, rather then numbers and data. This project is my attempt to support young investors into taking more sound decisions, and to stick to safe and data-proven investing strategyes, rather than running after short term profits and taking highly risky decisions.
 

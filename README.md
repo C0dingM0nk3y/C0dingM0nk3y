@@ -1,11 +1,17 @@
-### Hi there 👋
-
 My name is Tanino and I am a Data Scientist with passion for **automation** and **education**.
 
-I recognize the importance of data and data-driven decision, and I enjoy developing tools to promote data-driven decision-making and give access to it to a broader public, though the use of simple **data analysis and visualization widgets***.
-This profile collect some of the projects I have build while training my programming skills. 
+I am an enthusiastic promoter of **data-driven decision-making** and I would like to give access to it to a broader public, though the use of simple **data analysis and visualization widgets***.
 
-📫 If you like to collaborate or give feedback, feel free to contact me directly on [Linkedin]((https://www.linkedin.com/in/tanino-albanese-820b90260/)
+_This profile collect some of the projects I have build while training my programming skills._
+
+### Project: Financial freedom 📈
+As I attempted to reach my own financial freedom through , I have seen myself and other around me making many mistakes while driven my their emotions, rather then numbers and data. This project is my attempt to support young investors into taking more sound decisions, and to stick to safe and data-proven investing strategyes, rather than running after short term profits and taking highly risky decisions.
+
+- [investment-simulator](https://github.com/C0dingM0nk3y/investment-simulator): tool to explain standard investment strategies like **Dollar-Cost Averaging** and **Rebalancing**. \
+Starting from a simulation based on historical data on _any major asset available on the market_, allow the user to test the effect of those stategy over the course of seveal years, and therefore learn and understand _how_ they work, _why_ they are useful and _when_ it may be good (or not) to use them to _reduce investment risks_.
+
+***
+📫 If you like to <u>collaborate or provide feedback</u>, feel free to contact me directly on [Linkedin](https://www.linkedin.com/in/tanino-albanese-820b90260/)
 
 <!--
 **C0dingM0nk3y/C0dingM0nk3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
